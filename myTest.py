@@ -1,2 +1,2 @@
 print('project test')
-print ("test 00")
+print("test 00")
